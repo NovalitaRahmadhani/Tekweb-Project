@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "Buddy",
+      "type": "Dog",
+      "image": "https://via.placeholder.com/150",
+      "description": "Friendly and playful.",
+      "location": "New York"
+    },
+    {
+      "id": 2,
+      "name": "Whiskers",
+      "type": "Cat",
+      "image": "https://via.placeholder.com/150",
+      "description": "Loves cuddles and naps.",
+      "location": "Los Angeles"
+    }
+  ]
